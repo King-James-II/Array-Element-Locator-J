@@ -1,8 +1,9 @@
 /* Description: This program takes a two-dimensional int array and a two-dimensional double array
 and sends them into two overloaded methods based on the array being passed it scans the 
 two-dimensional arrays for the largest and smallest element and stores the location of the element 
-within the two-dimensional array in a single dimensional array and returns it back to the main 
+within the two-dimensional array in a single-dimensional array and returns it back to the main 
 method to be displayed.*/
+
 class ArrayElementLocator {
 	public static void main(String[] args) {
 		// Creating and storing values within our multidimensional int and double arrays.
